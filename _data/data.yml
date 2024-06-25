@@ -104,28 +104,19 @@ experiences:
             - Conduct research, experiments, and analyses to explore new ideas, solve problems, or advance knowledge in the domain. Successfully published research findings in reputable journals.
             
             
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: Visiting Lecturer, Computer Science
+        time: 2013 - 2015
+        organization: The Islamia University of Bahawalpur, Pakistan
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
           Cum sociis natoque penatibus et magnis dis parturient montes,
           nascetur ridiculus mus. Donec quam felis, ultricies nec,
           pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Delivering lectures to computer science undergraduates by preparing course materials, including syllabi, assignments, and assessments, to ensure effective learning outcomes for students.
+            - Conduct fair and timely evaluations of student performance through quizzes, exams, projects, and presentations.
+     
+
 
 certifications:
       title: Certifications
