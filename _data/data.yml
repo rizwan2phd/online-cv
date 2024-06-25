@@ -20,11 +20,11 @@ sidebar:
     website: blog.webjeda.com #do not add http://
     linkedin: alandoe
     xing: alandoe
-    github: sharu725
+    github: rizwan2phd
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@rizwan2phd'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -34,13 +34,10 @@ sidebar:
       title: Languages
       info:
         - idiom: English
+          level: Professional
+
+        - idiom: Urdu
           level: Native
-
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
 
     interests:
       title: Interests
@@ -66,8 +63,8 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
+      - degree: PhD in Computer Science
+        university: The Islamia University of Bahawalput, Pakistan.
         time: 2011 - 2012
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -92,21 +89,21 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Full Time Lecturer, Information Technology
+        time: 2016 - Present
+        organization: Khwaja Fareed Univerity of Engineering and Information Technology, Pakistan
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          adipiscing elit.
+            - Delivering lectures for subjects like Object-Oriented Programming and Enterprise Systems, Data Science and Mobile Application Programming etc. by preparing course materials, including syllabi, assignments, and assessments, to ensure effective learning outcomes for students.
+            - Serving as a Batch Advisor, providing guidance and support to students in matters related to their study plan and course enrollment.
+            - Mentoring and supervising final-year projects for computer science and information technology students.
+            - Actively participating in the Board of Studies meetings for curriculum development.
+            - Conduct fair and timely evaluations of student performance through quizzes, exams, projects, and presentations.
+            - Facilitating industry-academia interactions by organizing guest lectures, workshops, and seminars with industry professionals.
+            - Conduct research, experiments, and analyses to explore new ideas, solve problems, or advance knowledge in the domain. Successfully published research findings in reputable journals.
+            
+            
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
