@@ -65,11 +65,18 @@ education:
         university: The Islamia University of Bahawalput, Pakistan.
         time: 2011 - 2012
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
+          The thesis explores methods to classify depression expressed in social media posts, focusing
+on intensity rather than binary classification. It addresses the challenge of noise in social media
+data and proposes techniques using machine learning and deep learning models. After anno-
+tating tweets into three depression classes, FastText models and an ensemble approach are
+applied, achieving an 84% F1 score and 90% accuracy, outperforming baselines. The study
+evaluates transformer-based models, highlighting Electra Small Generator (ESG) as the best
+performer due to its deep contextualized text representation with an 89% F1 score, even sur-
+passing larger models like DistilBert. Additionally, optimization of ESG through post-training
+quantization is suggested for deployability to embedded devices without compromising per-
+formance, demonstrating its closeness in performance to the proposed ensemble approach.
+The research aids in better depression intensity classification on Twitter and helps in selecting
+optimal language models for similar NLP tasks with less training time.
             - Bullet point
             - Bullet point
       - degree: BSc in Applied Mathematics
